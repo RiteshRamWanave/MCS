@@ -18,3 +18,5 @@ After doing this, you may fix the identity used for this commit with:
  create mode 100644 cron.log
 To github.com:RiteshRamWanave/MCS.git
    13f7ceb..38ccc45  main -> main
+/root
+/var/snap/amazon-ssm-agent/9565/bc

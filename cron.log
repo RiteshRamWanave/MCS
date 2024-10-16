@@ -20,3 +20,90 @@ To github.com:RiteshRamWanave/MCS.git
    13f7ceb..38ccc45  main -> main
 /root
 /var/snap/amazon-ssm-agent/9565/bc
+[main 5b8389a] Auto commit
+ Committer: root <root@ip-10-0-133-104.ap-south-1.compute.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 71 files changed, 1395 insertions(+)
+ create mode 100644 world/DIM-1/data/capabilities.dat
+ create mode 100644 world/DIM-1/data/raids.dat
+ create mode 100644 world/DIM-1/level.dat
+ create mode 100644 world/DIM-1/level.dat_old
+ create mode 100644 world/DIM-1/session.lock
+ create mode 100644 world/DIM1/data/capabilities.dat
+ create mode 100644 world/DIM1/data/raids_end.dat
+ create mode 100644 world/DIM1/level.dat
+ create mode 100644 world/DIM1/level.dat_old
+ create mode 100644 world/DIM1/session.lock
+ create mode 100644 world/advancements/13479c6e-e50e-3ab1-8c69-41f15b3df698.json
+ create mode 100644 world/advancements/db12b5ac-19b2-3bd3-9ca4-26a429814f97.json
+ create mode 100644 world/advancements/ea582509-c323-3666-83fd-2f2391ec944e.json
+ create mode 100644 world/data/capabilities.dat
+ create mode 100644 world/data/raids.dat
+ create mode 100644 world/data/random_sequences.dat
+ create mode 100644 world/data/sponge/13479c6e-e50e-3ab1-8c69-41f15b3df698.dat
+ create mode 100644 world/data/sponge/db12b5ac-19b2-3bd3-9ca4-26a429814f97.dat
+ create mode 100644 world/entities/r.0.-1.mca
+ create mode 100644 world/entities/r.0.0.mca
+ create mode 100644 world/entities/r.1.-1.mca
+ create mode 100644 world/entities/r.1.0.mca
+ create mode 100644 world/entities/r.2.-1.mca
+ create mode 100644 world/entities/r.2.0.mca
+ create mode 100644 world/level.dat
+ create mode 100644 world/level.dat_old
+ create mode 100644 world/playerdata/13479c6e-e50e-3ab1-8c69-41f15b3df698.dat
+ create mode 100644 world/playerdata/13479c6e-e50e-3ab1-8c69-41f15b3df698.dat_old
+ create mode 100644 world/playerdata/db12b5ac-19b2-3bd3-9ca4-26a429814f97.dat
+ create mode 100644 world/playerdata/db12b5ac-19b2-3bd3-9ca4-26a429814f97.dat_old
+ create mode 100644 world/playerdata/ea582509-c323-3666-83fd-2f2391ec944e.dat
+ create mode 100644 world/playerdata/ea582509-c323-3666-83fd-2f2391ec944e.dat_old
+ create mode 100644 world/poi/r.-1.-1.mca
+ create mode 100644 world/poi/r.-1.0.mca
+ create mode 100644 world/poi/r.0.-1.mca
+ create mode 100644 world/poi/r.0.-2.mca
+ create mode 100644 world/poi/r.0.0.mca
+ create mode 100644 world/poi/r.0.1.mca
+ create mode 100644 world/poi/r.1.-1.mca
+ create mode 100644 world/poi/r.1.-2.mca
+ create mode 100644 world/poi/r.1.0.mca
+ create mode 100644 world/poi/r.1.1.mca
+ create mode 100644 world/poi/r.2.-1.mca
+ create mode 100644 world/poi/r.2.-2.mca
+ create mode 100644 world/poi/r.2.0.mca
+ create mode 100644 world/poi/r.2.1.mca
+ create mode 100644 world/poi/r.3.-1.mca
+ create mode 100644 world/poi/r.3.0.mca
+ create mode 100644 world/region/r.-1.-1.mca
+ create mode 100644 world/region/r.-1.0.mca
+ create mode 100644 world/region/r.0.-1.mca
+ create mode 100644 world/region/r.0.-2.mca
+ create mode 100644 world/region/r.0.0.mca
+ create mode 100644 world/region/r.0.1.mca
+ create mode 100644 world/region/r.1.-1.mca
+ create mode 100644 world/region/r.1.-2.mca
+ create mode 100644 world/region/r.1.0.mca
+ create mode 100644 world/region/r.1.1.mca
+ create mode 100644 world/region/r.2.-1.mca
+ create mode 100644 world/region/r.2.-2.mca
+ create mode 100644 world/region/r.2.0.mca
+ create mode 100644 world/region/r.2.1.mca
+ create mode 100644 world/region/r.3.-1.mca
+ create mode 100644 world/region/r.3.0.mca
+ create mode 100644 world/region/r.3.1.mca
+ create mode 100644 world/serverconfig/forge-server.toml
+ create mode 100644 world/session.lock
+ create mode 100644 world/stats/13479c6e-e50e-3ab1-8c69-41f15b3df698.json
+ create mode 100644 world/stats/db12b5ac-19b2-3bd3-9ca4-26a429814f97.json
+ create mode 100644 world/stats/ea582509-c323-3666-83fd-2f2391ec944e.json
+To github.com:RiteshRamWanave/MCS.git
+   49d7963..5b8389a  main -> main

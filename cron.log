@@ -124,3 +124,20 @@ After doing this, you may fix the identity used for this commit with:
  2 files changed, 87 insertions(+), 2 deletions(-)
 To github.com:RiteshRamWanave/MCS.git
    5b8389a..387f0a1  main -> main
+[main 87ecc26] Auto commit
+ Committer: root <root@ip-10-0-133-104.ap-south-1.compute.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+To github.com:RiteshRamWanave/MCS.git
+   387f0a1..87ecc26  main -> main
